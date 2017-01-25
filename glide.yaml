@@ -1,0 +1,3 @@
+package: github.com/21stio/go-spf13-pflag-lab
+import:
+- package: github.com/spf13/pflag
